@@ -12,8 +12,8 @@ global.owner = [
   ['51955336417',
 ] 
 
-global.suittag = ['5219993404349'] 
-global.prems = ['51995386439'] 
+global.suittag = ['51921934527'] 
+global.prems = ['51921934527'] 
 
 global.packname = '★MIN BOT★'
 global.author = '★MIN BOT★'
